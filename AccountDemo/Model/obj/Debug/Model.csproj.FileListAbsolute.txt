@@ -1,0 +1,14 @@
+E:\完成项目\myItme\AccountDemo\Model\bin\Debug\Model.dll
+E:\完成项目\myItme\AccountDemo\Model\bin\Debug\Model.pdb
+E:\完成项目\myItme\AccountDemo\Model\obj\Debug\Model.dll
+E:\完成项目\myItme\AccountDemo\Model\obj\Debug\Model.pdb
+I:\学习文件\资料\完成项目\myItme\AccountDemo\Model\bin\Debug\Model.dll
+I:\学习文件\资料\完成项目\myItme\AccountDemo\Model\bin\Debug\Model.pdb
+I:\学习文件\资料\完成项目\myItme\AccountDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+I:\学习文件\资料\完成项目\myItme\AccountDemo\Model\obj\Debug\Model.dll
+I:\学习文件\资料\完成项目\myItme\AccountDemo\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\AccountDemo\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\AccountDemo\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\AccountDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AccountDemo\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\AccountDemo\Model\obj\Debug\Model.pdb

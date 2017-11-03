@@ -1,0 +1,5 @@
+E:\完成项目\myItme\AccountDemo\Model\bin\Release\Model.dll
+E:\完成项目\myItme\AccountDemo\Model\bin\Release\Model.pdb
+E:\完成项目\myItme\AccountDemo\Model\obj\Release\Model.dll
+E:\完成项目\myItme\AccountDemo\Model\obj\Release\Model.pdb
+E:\完成项目\myItme\AccountDemo\Model\obj\Release\Model.csprojResolveAssemblyReference.cache

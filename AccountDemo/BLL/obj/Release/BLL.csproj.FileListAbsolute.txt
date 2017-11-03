@@ -1,0 +1,9 @@
+E:\完成项目\myItme\AccountDemo\BLL\bin\Release\BLL.dll
+E:\完成项目\myItme\AccountDemo\BLL\bin\Release\BLL.pdb
+E:\完成项目\myItme\AccountDemo\BLL\bin\Release\DAL.dll
+E:\完成项目\myItme\AccountDemo\BLL\bin\Release\Model.dll
+E:\完成项目\myItme\AccountDemo\BLL\bin\Release\DAL.pdb
+E:\完成项目\myItme\AccountDemo\BLL\bin\Release\Model.pdb
+E:\完成项目\myItme\AccountDemo\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\完成项目\myItme\AccountDemo\BLL\obj\Release\BLL.dll
+E:\完成项目\myItme\AccountDemo\BLL\obj\Release\BLL.pdb

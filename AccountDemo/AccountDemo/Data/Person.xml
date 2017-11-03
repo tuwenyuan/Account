@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <pelper>
+    <person id="1">涂文远</person>
+    <person id="2">涂文平</person>
+    <person id="3">程林林</person>
+  </pelper>
+  <paycominType>
+    <Name>吃饭</Name>
+    <Name>买东西</Name>
+    <Name>发工资</Name>
+    <Name>水果</Name>
+    <Name>去医院</Name>
+    <Name>理发</Name>
+    <Name>外贸用</Name>
+    <Name>交房租</Name>
+    <Name>充话费</Name>
+    <Name>娱乐</Name>
+  </paycominType>
+</root>

@@ -1,0 +1,14 @@
+E:\完成项目\myItme\AccountDemo\DBUtility\bin\Debug\DBUtility.dll
+E:\完成项目\myItme\AccountDemo\DBUtility\bin\Debug\DBUtility.pdb
+E:\完成项目\myItme\AccountDemo\DBUtility\obj\Debug\DBUtility.dll
+E:\完成项目\myItme\AccountDemo\DBUtility\obj\Debug\DBUtility.pdb
+I:\学习文件\资料\完成项目\myItme\AccountDemo\DBUtility\bin\Debug\DBUtility.dll
+I:\学习文件\资料\完成项目\myItme\AccountDemo\DBUtility\bin\Debug\DBUtility.pdb
+I:\学习文件\资料\完成项目\myItme\AccountDemo\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+I:\学习文件\资料\完成项目\myItme\AccountDemo\DBUtility\obj\Debug\DBUtility.dll
+I:\学习文件\资料\完成项目\myItme\AccountDemo\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\AccountDemo\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\AccountDemo\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\AccountDemo\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AccountDemo\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\AccountDemo\DBUtility\obj\Debug\DBUtility.pdb

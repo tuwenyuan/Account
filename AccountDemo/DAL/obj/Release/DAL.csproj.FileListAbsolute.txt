@@ -1,0 +1,5 @@
+E:\完成项目\myItme\AccountDemo\DAL\bin\Release\DAL.dll
+E:\完成项目\myItme\AccountDemo\DAL\bin\Release\DAL.pdb
+E:\完成项目\myItme\AccountDemo\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\完成项目\myItme\AccountDemo\DAL\obj\Release\DAL.dll
+E:\完成项目\myItme\AccountDemo\DAL\obj\Release\DAL.pdb
